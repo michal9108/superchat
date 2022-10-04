@@ -1,4 +1,10 @@
-###  FULL-STACK CHAT APP with React + Firebase - BASE FOR ANY REALTIME APPLICATION ###
+<h1> FULL-STACK CHAT APP with React + Firebase</h1>
+
+
+<p>  
+<img src="https://media.giphy.com/media/IOqP3pWEQDLMDB34zM/giphy.gif" width="75%" height="75%"/> 
+</p>
+
 
 Secure, flexible scales infinitely in the cloud, unfortunately security rules are not active.    
 
